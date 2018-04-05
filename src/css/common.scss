@@ -1,0 +1,9 @@
+$font-common: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Go_Pro_W3, メイリオ, Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+$size-common: 16px;
+$break-lg: 1200px;
+$break-small: 768px;
+
+body {
+  font-size: $size-common;
+  font-family: $font-common;
+}

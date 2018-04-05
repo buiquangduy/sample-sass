@@ -1,0 +1,12 @@
+.second-block {
+  .box-head {
+    margin-bottom: 50px;
+  }
+  .tit_img {
+    max-width: 500px;
+    @media screen and (max-width: $break-small) {
+      max-width: 50%;
+      float: none;
+    }
+  }
+}
